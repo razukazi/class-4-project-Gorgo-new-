@@ -1,0 +1,3 @@
+*font-family: 'Open Sans', sans-serif;
+
+Gorge is a minimal content focused blog & Magazine Theme 
